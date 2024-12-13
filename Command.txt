@@ -1,0 +1,8 @@
+git init - initialize the repo
+git add MyFile.txt - stage the MyFile.txt
+git status - check that only MyFile.txt was added
+----
+cd Info - move to subfolder
+git add InfoFile1.txt - stage this file
+git add InfoFile2.txt - stage this file
+git status - confirm staged files (NOT Command.txt)
