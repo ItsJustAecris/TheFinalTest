@@ -6,3 +6,8 @@ cd Info - move to subfolder
 git add InfoFile1.txt - stage this file
 git add InfoFile2.txt - stage this file
 git status - confirm staged files (NOT Command.txt)
+----
+git config user.name "Bryan_INFO" - change username
+git config user.name - verify changes
+----
+git status - Check repo status
